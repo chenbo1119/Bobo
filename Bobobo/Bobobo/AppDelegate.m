@@ -25,6 +25,8 @@
     
     NSLog(@"Monkey likes brananas");
     
+    NSLog(@"No No No ,monkey love ugly girl");
+    
     return YES;
 }
 
