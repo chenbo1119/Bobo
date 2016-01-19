@@ -23,6 +23,8 @@
     
     NSLog(@"老汉推车  皮老汉");
     
+    NSLog(@"Monkey likes brananas");
+    
     return YES;
 }
 
